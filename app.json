@@ -18,15 +18,15 @@
     },
     "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "5989063207:AAHmnC-OTSoTHsfhLL7y6NUZDE7w8GgDQj4"
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "9070207"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "efbc8ed2f725b47e045e899b5b58cb95"
     },
     "CAPTION_TEXT": {
       "description": "Add your caption Defult will be [Markdown] [nothing]",
@@ -35,11 +35,11 @@
     },
     "CAPTION_POSITION": {
       "description": "Position of your caption [TOP, BOTTOM, NIL]",
-      "value": ""
+      "value": "Join @katandika2022"
     },
     "ADMIN_USERNAME": {
       "description": "Admin username without [@], Default will be Ts_bots",
-      "value": "AvishkarPatil", 
+      "value": "kibandaadmin", 
       "required": false
     }        
     
