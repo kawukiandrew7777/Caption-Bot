@@ -30,12 +30,12 @@
     },
     "CAPTION_TEXT": {
       "description": "Add your caption Defult will be [Markdown] [nothing]",
-      "value": "", 
+      "value": "Join @katandika2022", 
       "required": false 
     },
     "CAPTION_POSITION": {
       "description": "Position of your caption [TOP, BOTTOM, NIL]",
-      "value": "Join @katandika2022"
+      "value": "bottom"
     },
     "ADMIN_USERNAME": {
       "description": "Admin username without [@], Default will be Ts_bots",
